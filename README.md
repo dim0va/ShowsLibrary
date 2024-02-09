@@ -1,5 +1,12 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Screenshots of the app
+
+![Library](https://github.com/dim0va/TVMaze/assets/61024966/0bfec940-6d5b-426a-af43-49cd2f21f86a)
+![Favorites](https://github.com/dim0va/TVMaze/assets/61024966/f08fd9f8-7a66-473f-abc5-4aac38fcfbf7)
+![Single Show](https://github.com/dim0va/TVMaze/assets/61024966/4cb688df-847e-46d5-af12-b8533f49f1f3)
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
